@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 
-🌎🚨 Entrando nesse mundo de Programação e Dados
+🌎Entrando Nesse Mundo de Programação e Dados🕵🏻‍♂️
 - 🌱 Estou estudando Data Science
+- 🚛 Trabalho para o Mercado Envios
 - 🌈 LGBTQia+
-- 😄 Pronouns: Ela/she
-- ⚡ -->
+- ❤ Aqui o aprendizado é diário>>>
            <div align="center">
       <a href="https://github.com/hifran">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hifran&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
