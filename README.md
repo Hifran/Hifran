@@ -1,12 +1,12 @@
 ### Hi there 👋
 
 
-🌎Entrando Nesse Mundo de Programação e Dados🕵🏻‍♂️
-- 🌱 Estou Estudando Engenharia de Software 
+🌎Entrando no mundo de Programação e Dados🕵🏻‍♂️
+- 🌱 Estou Estudando Ciência da Computação 
 - 🚛 Trabalho para o Mercado Envios
 - 🌈 LGBTQia+
 - 🌴98's
-- ❤ /* Aqui o aprendizado é diário!*/
+- ❤ /* Aprendizado Diário!*/
            <div align="center">
       <a href="https://github.com/hifran">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hifran&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
