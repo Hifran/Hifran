@@ -3,7 +3,6 @@
 
 🌎Entrando no mundo de Programação e Dados🕵🏻‍♂️
 - 🌱 Estou Estudando Ciência da Computação 
-- 🚛 Trabalho para o Mercado Envios
 - 🌈 LGBTQia+
 - 🌴98's
 - ❤ /* Aprendizado Diário!*/
